@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Engineer with over 3 years of experience in building WebPlatforms.</h3>
+<h3 align="center">Frontend Engineer with over 4 years of experience in building WebPlatforms.</h3>
 <br> <br>
 <img align="right" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif">
 <h3>My technology stack:</h3>
