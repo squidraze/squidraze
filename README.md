@@ -3,7 +3,7 @@
 <img align="right" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif">
 <h3>My technology stack:</h3>
 
-🛠 JavaScript, Jqvery, TypeScript
+🛠 JavaScript, Jquery, TypeScript
 
 🛠 React, React Native / Next.js
 
